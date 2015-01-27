@@ -28,3 +28,4 @@ label SirVilat:
 # Очнулся в автобусе
     play music  music_list["door_to_nightmare"] fadein 1
     scene bg int_bus
+    
