@@ -54,8 +54,7 @@ label SirVilat:
     th "Эх, надо было пнуть дважды - все равно он бы не успел заметить"
 
 # Лиза пришла    Треш коммит
-    scene ext_camp_entrance_day
-    show sl surprise pioneer at left
+    scene bg ext_camp_entrance_day
     show ss_li at right
     li "Ну ты герой пиздец"
 
