@@ -57,5 +57,5 @@ label SirVilat:
     scene ext_camp_entrance_day 
     show li normal casual at right
     li "Ну ты герой пиздец"
-    
+    return
         
