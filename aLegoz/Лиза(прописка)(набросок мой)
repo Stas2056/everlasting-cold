@@ -6,7 +6,7 @@ init:
 label alegoztest:
     scene bg int_house_of_mt_day                                     ## Сцена
     play music music_list["my_daily_life"]                           ## Музыка
-    show lis at center                                               ## Показываем лизу в центре
+    show lis ## Показываем лизу в центре  P.S. at center - центрируется(обрезаные ноги видно) без центрирования норм
  
     "Вау!!"
     Lisa "Твой мод супер"
